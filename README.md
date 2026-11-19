@@ -1,5 +1,9 @@
 # Sum up 19 November's world news in one image — make.fun entry
 
+[![make.fun competition](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/danhasanewsn/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/danhasanewsn/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
 Bounty: https://make.fun/bounty/news-image-20261119
 Reward pool: $250 USDC, 50 places paid (1st $50, 2nd $30, 3rd $15,
 4th–10th $5, 11th–50th $3). Deadline: Sat Nov 21, 2026, 12:00 AM UTC
